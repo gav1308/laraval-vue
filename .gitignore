@@ -18,4 +18,4 @@ yarn-error.log
 /resources/views/index.blade.php
 
 composer.lock
-packaglock.json
+package-lock.json
