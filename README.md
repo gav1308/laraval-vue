@@ -1,4 +1,4 @@
-### 僅測試laravel與vue整併
+# 僅測試laravel與vue整併
 
 ## About Laravel
 
